@@ -1,16 +1,18 @@
-# Kenzieflix
+# Flix
 
 Projeto desenvolvido na parte 2 da maratona de programação da Kenzie Academy Brasil.
 
-## Ferramentas
+## O que é este projeto?
 
-[Como utilizar o codepen e o VSCode](https://kenzie-academy-brasil.github.io/ferramentas/)
+O Flix é uma página estática que recria, para fins educacionais, a interface inicial da Netflix. Foi construída com HTML5 e CSS3 para praticar semântica, tipografia, espaçamento, posicionamento (Flexbox) e responsividade. O layout inclui cabeçalho com navegação, seção de destaque com botões ("Assistir" e "Mais informações") e listas horizontais de filmes como "Em alta", "Só na Netflix" e "Top 10 no Brasil hoje".
+
+Não há backend ou reprodução de vídeos: todas as imagens estão em `assets/img` e os estilos em `assets/css/style.css`. Para visualizar localmente, basta abrir o arquivo `index.html` no navegador ou servir a pasta do projeto em um servidor HTTP simples.
 
 ## O Projeto
 
 ### Estrutura de arquivos
 
-- kenzieflix
+- flix
     - README.md
     - index.html
     - /assets
@@ -110,7 +112,7 @@ Para evitar que isso estrague seu layout, adicione um estilo que combine com a c
 
 ### Figma
 
-- [Figma desktop](https://www.figma.com/file/krw4UzY7OFc6AJVxr4Q6gg/KenzieFlix?node-id=0%3A1)
+- [Figma desktop](https://www.figma.com/proto/hd2wX65H6ZVLTOilHR64mi/Flix?node-id=0-1&t=VF3mQkf0KOTv7K9h-1)
 - [Figma mobile](https://www.figma.com/file/6Ruhg2NFs3CDxtoWLBfEsz/NetflixApp?node-id=0%3A1)
 
 ### Imagem
@@ -120,4 +122,4 @@ Para evitar que isso estrague seu layout, adicione um estilo que combine com a c
 
 ### Resultado final
 
-- [Kenzieflix](https://kenzie-academy-brasil.github.io/kenzieflix/)
+- [Flix](https://kenzie-academy-brasil.github.io/kenzieflix/)
